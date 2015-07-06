@@ -5,8 +5,8 @@ This part of the assignment will cover fundamental JavaScript topics outside the
 
 Instructions
 ------------
-- Create a new repository called cs290-assignment3 at the location you specified in week 1.
-- Clone this repository and copy all of the contents to that repository
+- Create a new repository called cs290-assignment3 (in your shared acount if you are in a group).
+- Clone this repository and copy all of the contents to that repository (You can also fork this to your account using Github fork, both cloning and forking works fine)
   - The directory structure should look like this:
     - cs290-assignment3
       - log.txt
